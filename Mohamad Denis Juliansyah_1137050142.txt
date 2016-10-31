@@ -1,0 +1,15 @@
+1. ImageView
+2. Attribut Xml
+3. "ILikePracticeSetsTheBest
+4. View Gruop
+5. <Button
+	android:id="@+id/lyla_text_view"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+	android:textSize="24sp"
+	android:text="Click Me" />
+6. Linearlayout dibagi menjadi 3 bagian, ada 3 textview , textview yang pertama tulisannya Ukuran 1 kedua Ukuran 2, ukuran
+   tesk 1 dan 2 sama, sedangkan yang ketiga lebih kecil, dan yang terakhir linearlayout di oritasinya vertikal
+7. Linearlayout yang dibagi ke samping dan mempunyai 3 bagian, menpunyai 3 textview dan ukuran tesk ketiganya sama.	
